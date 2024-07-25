@@ -1,0 +1,17 @@
+Here is the problem description
+//
+So Given an array and a target value you have to find the pair of numbers in the array
+that gives the target value when added up
+//
+
+Example:
+arr:{1,2,3,4} target:4 
+result:[1,3]
+
+you may assume that each array will have only one solution and you should not use the same
+element twice.
+
+Examples:
+nums=[2,7,11,1,5] target =9
+result=[0,1]
+because nums[0]+nums[1]=9
