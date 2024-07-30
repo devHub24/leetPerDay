@@ -1,0 +1,20 @@
+Here we go
+The Question is to find the longest subString wuithout repeating characters
+quite confusing?
+let's break it down
+Example
+Str: abcabcbb
+so here the substring are:
+a
+ab
+abc
+abca: this is an invalid substring since we have duplicate values in a sub string
+so the valid sub strings for the given string is a, ab, abc, bc, bca, ca, cab
+so the longest substring is abc
+Another Example: pwwkew
+ here the valid sub strings are: pw, wk,wke,ke  
+ so the va;id substring is wke 
+ 
+ the output for both the input is 3
+ 
+ 
